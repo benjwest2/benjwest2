@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjwest2
-- 👀 I’m interested in ... data science, data analysis, data visualization, birds
+- 👀 I’m interested in ... R, data science, data analysis, data visualization, birds
 - 🌱 I’m currently learning ... Python!
 - 📫 How to reach me ... benjwest@gmail.com
 

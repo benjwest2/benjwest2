@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjwest2
 - 👀 I’m interested in ... R, data science, data analysis, data visualization, birds
-- 🌱 I’m currently learning ... Python!
+- 🌱 I’m currently learning ... about grass carp
 - 📫 How to reach me ... benj west [AT] gmail [DOT] com
 
 <!---
